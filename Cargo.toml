@@ -3,6 +3,7 @@ resolver = "2"
 
 members = [
     "authorization",
+    "auth_token",
     "hello_world",
     "increment",
     "custom_types",
